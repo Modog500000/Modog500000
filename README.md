@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ModogTheDev</h1>
-<h3 align="center">Im a developer from Minnesota</h3>
+<h3 align="center">Im a developer from The United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modog500000&label=Profile%20views&color=0e75b6&style=flat" alt="modog500000" /> </p>
 
