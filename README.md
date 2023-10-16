@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ScratchCraft](https://github.com/Modog500000/ScratchCraft)
 
-- 🌱 I’m currently learning **C#, Kotlin, etc**
+- 🌱 I’m currently learning **C#, Java**
 
 - 📫 How to reach me **modog500000@gmail.com**
 
