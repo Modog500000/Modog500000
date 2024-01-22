@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Volcano Bay](https://github.com/Modog500000/volcanobay)
 
-- 🌱 I’m currently learning **C#, Java**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **modogthedev@volcanobay.xyz**
 
