@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Volcano Bay](https://www.volcanobay.xyz)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **GLSL**
 
 - 📫 How to reach me **modogthedev@volcanobay.xyz**
 
