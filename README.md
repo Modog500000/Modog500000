@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ModogTheDev</h1>
-<h3 align="center">Im a developer from The United States</h3>
+<h3 align="center">I'm a developer from The United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modog500000&label=Profile%20views&color=0e75b6&style=flat" alt="modog500000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modog500000;column=8&amp;theme=gruvbox&amp;no-frame=true;"/></a> </p>
 
-- 🔭 I’m currently working on [Volcano Bay](https://www.volcanobay.xyz)
+- 🔭 I’m currently working on [Supoerposition]([https://www.volcanobay.xyz/projects](https://www.volcanobay.xyz/projects))
 
 - 🌱 I’m currently learning **GLSL**
 
