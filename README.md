@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modog500000&label=Profile%20views&color=0e75b6&style=flat" alt="modog500000" /> </p>
 
-- 🔭 I’m currently working on [Supoerposition]([https://www.volcanobay.xyz/projects](https://www.volcanobay.xyz/projects))
+- 🔭 I’m currently working on [Superposition]([https://www.volcanobay.xyz/projects](https://www.volcanobay.xyz/projects))
 
 - 🌱 I’m currently learning **C#**
 
