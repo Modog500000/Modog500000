@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm ModogTheDev</h1>
 <h3 align="center">I'm a developer from The United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=modog500000&label=Profile%20views&color=0e75b6&style=flat" alt="modog500000" /> </p>
-
-- 🔭 I’m currently working on [Superposition]([https://www.volcanobay.xyz/projects](https://www.volcanobay.xyz/projects))
+- 🔭 I’m currently working on <a href="https://www.volcanobay.xyz/projects" target="blank">Superposition</a>
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **modogthedev@volcanobay.xyz**
+- 📫 Contact me at **modogthedev@volcanobay.xyz** *or* **@modogthedev** on discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +14,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a>
+</p>
 
 ![](https://raw.githubusercontent.com/modog500000/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/modog500000/github-stats-transparent/output/generated/languages.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=modog500000&label=Profile%20views&color=0e75b6&style=flat" alt="modog500000" /> </p>
