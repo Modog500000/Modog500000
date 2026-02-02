@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Supoerposition]([https://www.volcanobay.xyz/projects](https://www.volcanobay.xyz/projects))
 
-- 🌱 I’m currently learning **GLSL**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **modogthedev@volcanobay.xyz**
 
